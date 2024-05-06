@@ -1,3 +1,2 @@
-resume video from: 14:42
+resume video from: 20:09
 
-create a db in mongo db using the steps in chat gpt
